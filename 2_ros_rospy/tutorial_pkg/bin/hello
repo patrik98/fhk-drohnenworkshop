@@ -1,0 +1,6 @@
+import py_package.hello
+
+if __name__ == '__main__':
+    py_package.hello.say('my friend!')
+
+
